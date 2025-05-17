@@ -59,7 +59,7 @@ An AI-powered conversational interface for answering complex business questions 
 cd AI-data-agent
 
 ##Output Screenshots
-![AI Data Agent Screenshot](./Assets/AI Data Agent Welcome Screen.png)
+![AI Data Agent Screenshot](./Assets/aidata.png)
 
 
 
