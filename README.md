@@ -50,6 +50,12 @@ An AI-powered conversational interface for answering complex business questions 
 
 ---
 
+
+##Output Screenshots
+![AI Data Agent Screenshot](./Assets/aidata.png)
+
+
+---
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
@@ -58,8 +64,7 @@ An AI-powered conversational interface for answering complex business questions 
 [git clone https://github.com/shamira01/AI-data-agent.git]
 cd AI-data-agent
 
-##Output Screenshots
-![AI Data Agent Screenshot](./Assets/aidata.png)
+
 
 
 
