@@ -59,7 +59,7 @@ An AI-powered conversational interface for answering complex business questions 
 cd AI-data-agent
 
 ##Output Screenshots
-https://github.com/shamira01/AI-data-agent/issues/2#issue-3070927078
+![AI Data Agent Screenshot](./Assets/AI Data Agent Welcome Screen.png)
 
 
 
