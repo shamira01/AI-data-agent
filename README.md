@@ -55,5 +55,5 @@ An AI-powered conversational interface for answering complex business questions 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ai-data-agent.git
-cd ai-data-agent
+[git clone https://github.com/shamira01/AI-data-agent.git](https://github.com/shamira01/AI-data-agent.git)
+cd AI-data-agent
