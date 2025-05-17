@@ -55,7 +55,7 @@ An AI-powered conversational interface for answering complex business questions 
 ![AI Data Agent Screenshot](./Assets/WelcomeScreen.png)
 ![AI Data Agent Screenshot](./Assets/DashBoard.png)
 ![AI Data Agent Screenshot](./Assets/ChatScreen.png)
-![AI Data Agent Screenshot](./Assets/ChatScreen(2).png)
+![AI Data Agent Screenshot](./Assets/data.png)
 ![AI Data Agent Screenshot](./Assets/ChatScreen(4).png)
 ![AI Data Agent Screenshot](./Assets/Recommendations.png)
 
