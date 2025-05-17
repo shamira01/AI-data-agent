@@ -52,7 +52,7 @@ An AI-powered conversational interface for answering complex business questions 
 
 
 ## Output Screenshots
-![AI Data Agent Screenshot](./Assets/aidata.png)
+![AI Data Agent Screenshot](AI Data Agent Welcome Screen.png)
 
 
 ---
